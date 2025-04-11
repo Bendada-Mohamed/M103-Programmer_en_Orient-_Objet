@@ -1,0 +1,4 @@
+Cylindre (Cylindre1, Rouge): Périmètre = 31.42, Surface = 471.24
+Sphere (Sphere1, Bleu): Périmètre = 43.98, Surface = 615.75
+Cube (Cube1, Vert): Périmètre = 48, Surface = 96
+Disque (Disque1, Jaune): Périmètre = 113.1, Surface = 37.7
